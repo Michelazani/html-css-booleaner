@@ -1,0 +1,15 @@
+body{
+    margin: 0%;
+}
+
+header{
+    background-image: url(../img/pattern.png) ;
+    background-color: #4BA4F2;
+    background-repeat: repeat;
+    background-size: 33%;
+}
+
+.size-logo{
+    width: 150px;
+    padding-top: 5%;
+}
