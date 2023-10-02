@@ -13,3 +13,12 @@ header{
     width: 150px;
     padding-top: 5%;
 }
+
+.blue-text{
+    color: rgb(76, 163, 192);
+}
+
+p{
+    color: gray;
+    margin: 0%;
+}
