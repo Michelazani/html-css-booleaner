@@ -14,11 +14,15 @@ header{
     padding-top: 5%;
 }
 
-.blue-text{
+.blue-bold-text{
     color: rgb(76, 163, 192);
+    font-weight: bold;
 }
 
-p{
-    color: gray;
-    margin: 0%;
+.lightgray-text{
+    color: lightgray;
+}
+
+.underline{
+    background-color: yellow;
 }
