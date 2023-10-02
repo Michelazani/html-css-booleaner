@@ -26,3 +26,28 @@ header{
 .underline{
     background-color: yellow;
 }
+
+table{
+    border-spacing: 0;
+}
+.larghezza25{
+    width: 25%;
+}
+
+.larghezza50{
+    width: 50%;
+}
+
+thead{
+    background-color: #4BA4F2;
+}
+
+.light-blue-box{
+    background-color: #B3ECF2;
+}
+
+
+
+
+
+
