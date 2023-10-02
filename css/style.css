@@ -7,6 +7,7 @@ header{
     background-color: #4BA4F2;
     background-repeat: repeat;
     background-size: 33%;
+
 }
 
 .size-logo{
@@ -40,13 +41,33 @@ table{
 
 thead{
     background-color: #4BA4F2;
+    text-align: justify;
+    color: white;
 }
 
 .light-blue-box{
     background-color: #B3ECF2;
 }
 
+.text-img{
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 185px;
+    color: white;
+    font-weight: bold;
+}
 
+.text-img2{
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 165px;
+    color: white;
+    font-weight: bold;
+}
 
 
 
